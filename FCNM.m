@@ -142,7 +142,7 @@ parfor i = 1:length(Filename)
     [X, XYZ] = spm_read_vols(V);
 
     % Compute p-values for positive T statistics
-    P_uncorrected = 1 - spm_Tcdf(X(X > 0), 655);
+    P_uncorrected = 1 - spm_Tcdf(X(X > 0), 655); % Adjust the second parameter based on your sample size
     P_sorted = sort(P_uncorrected);
     P_corrected = spm_P_FDR(P_sorted);
 
