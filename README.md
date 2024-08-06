@@ -18,3 +18,4 @@ This repository contains MATLAB scripts and data for mapping functional connecti
 ## Publications: 
 - Mo, Fan et al. “Network Localization of State and Trait of Auditory Verbal Hallucinations in Schizophrenia.” Schizophrenia bulletin, sbae020. 24 Feb. 2024, doi:10.1093/schbul/sbae020
 - Zhang, Xiaohan et al. “Brain Structural and Functional Damage Network Localization of Suicide.” Biological psychiatry vol. 95,12 (2024): 1091-1099. doi:10.1016/j.biopsych.2024.01.003
+- Cheng, Yan et al. “Brain network localization of gray matter atrophy, neurocognitive and social cognitive dysfunction in schizophrenia.” Biological psychiatry, S0006-3223(24)01489-6. 3 Aug. 2024, doi:10.1016/j.biopsych.2024.07.021
