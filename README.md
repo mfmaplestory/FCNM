@@ -23,9 +23,9 @@ The repository contains two complementary analysis approaches:
 
 ## Enhanced Functional Connectivity Analysis
 
-For users with existing ROI masks, the `fc_analysis.m` script offers optimized parallel processing for functional connectivity analysis. This script can significantly improve processing speed when analyzing multiple ROIs.
+For users with existing ROI masks, the `ROI_FC_fwe__fdr_parfor.m` script offers optimized parallel processing for functional connectivity analysis. This script can significantly improve processing speed when analyzing multiple ROIs.
 
-### Data Organization for fc_analysis.m
+### Data Organization for ROI_FC_fwe__fdr_parfor.m
 ```
 data/
 ├── roi_masks/
