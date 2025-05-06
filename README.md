@@ -8,7 +8,7 @@ This repository contains MATLAB scripts and data for mapping functional connecti
 * `publication_data/`: Contains partial intermediate and result data from the published articles.
 * `FCNM.m`: Main script for processing data and generating network probability maps from Excel coordinates.
 * `FCNM_Random_validation.m`: Script to validate that the network mappings are not random.
-* `fc_analysis.m`: Supplementary script for optimized parallel processing of existing ROIs for whole-brain functional connectivity analysis.
+* `ROI_FC_fwe__fdr_parfor.m`: Supplementary script for optimized parallel processing of existing ROIs for whole-brain functional connectivity analysis.
 
 ## Prerequisites
 * MATLAB (preferably R2019b or later)
@@ -19,7 +19,7 @@ This repository contains MATLAB scripts and data for mapping functional connecti
 ## Usage Notes
 The repository contains two complementary analysis approaches:
 1. **FCNM.m** - Use this script when starting from Excel coordinates to generate ROIs and then perform connectivity analysis.
-2. **fc_analysis.m** - Use this script when you already have ROI masks and want to perform optimized parallel functional connectivity analysis.
+2. **ROI_FC_fwe__fdr_parfor.m** - Use this script when you already have ROI masks and want to perform optimized parallel functional connectivity analysis.
 
 ## Enhanced Functional Connectivity Analysis
 
