@@ -64,4 +64,4 @@ results/
 
 * Cheng, Yan et al. "Brain network localization of gray matter atrophy, neurocognitive and social cognitive dysfunction in schizophrenia." Biological psychiatry, S0006-3223(24)01489-6. 3 Aug. 2024, doi:10.1016/j.biopsych.2024.07.021
 
-* Yao, Shanwen et al. ""
+* Yao, Shanwen et al. "Network localization of genetic risk for schizophrenia and bipolar disorder."
